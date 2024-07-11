@@ -2,7 +2,10 @@
 
 Some code with some bugs...
 
-There's a twitter quote that says "FizzBuzz was invented because no one wants to write binary search in an interview". The rules are fairly straightforward - we count up from 1, but if the number is divisible by 3, it's replaced with "Fizz", divisible byu 5, it's replaced with "Buzz", and divisible by 15 (or 3 and 5), it's replaced with "FizzBuzz".
+There's a twitter quote that says "FizzBuzz was invented because no one wants to write binary
+search in an interview". The rules are fairly straightforward - we count up from 1, but if the
+number is divisible by 3, it's replaced with "Fizz", divisible by 5, it's replaced with "Buzz", and
+divisible by 15 (or 3 and 5), it's replaced with "FizzBuzz".
 
 The code samples here have failing tests that need to be corrected. To start:
 - select the groovy or kotlin folder - each has a maven project for that particular language
